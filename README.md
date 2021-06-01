@@ -1,2 +1,2 @@
-# reddit-bot
-ai-powered chat bot
+# Reddit-Chat-Bot
+ai-powered chat bot to answer questions about me. 
