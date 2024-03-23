@@ -2,11 +2,11 @@ import praw
 from Dora import *
 import time
 
-reddit = praw.Reddit(client_id='XBO-04Xc3TVC5Q',
-                     client_secret='dRbOQno_X9AhpeYP3gMY9T1NxDI',
-                     user_agent='<console: info_bot 0.0.1 (by /u/bot_writter)',
-                     username='BeatMyMeatBoi',
-                     password='jayantkalpg6')
+reddit = praw.Reddit(client_id='xxx',
+                     client_secret='xxx',
+                     user_agent='xxx',
+                     username='xxx',
+                     password='xxx')
 
 # sub where it will be operating
 my_subreddit = reddit.subreddit('AboutJayant')
